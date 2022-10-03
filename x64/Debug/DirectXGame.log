@@ -1,0 +1,13 @@
+﻿  compilation object save succeeded; see C:\工学院\CG3Monday\AL4_CG3_Start\DirectXGame\x64\Debug\BasicPixelShader.cso
+  compilation object save succeeded; see C:\工学院\CG3Monday\AL4_CG3_Start\DirectXGame\x64\Debug\BasicVertexShader.cso
+  compilation object save succeeded; see C:\工学院\CG3Monday\AL4_CG3_Start\DirectXGame\x64\Debug\SpritePixelShader.cso
+  compilation object save succeeded; see C:\工学院\CG3Monday\AL4_CG3_Start\DirectXGame\x64\Debug\SpriteVertexShader.cso
+  DebugText.cpp
+  DirectXCommon.cpp
+  GameScene.cpp
+  Input.cpp
+  Object3d.cpp
+  Sprite.cpp
+  WinApp.cpp
+  main.cpp
+  DirectXGame.vcxproj -> C:\工学院\CG3Monday\AL4_CG3_Start\DirectXGame\x64\Debug\DirectXGame.exe
